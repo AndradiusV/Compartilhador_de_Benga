@@ -1,9 +1,31 @@
 {
-    "volumeGeral": 1.0,
-    "qualidadeGrafica": 5,
+    "volume_Geral": 0.1646191030740738,
+    "volume_Ping": 1.0,
+    "qualidadeGrafica": 1,
     "idioma": "PT-BR",
     "resloução_Atual": {
-        "x": 801,
-        "y": 935
-    }
+        "x": 1219,
+        "y": 769
+    },
+    "Avisos": true,
+    "brush_Size": 13.497252464294434,
+    "brush_Color": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+    },
+    "cor_base": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+    },
+    "D_width": 640,
+    "D_height": 480,
+    "intencidade_Branco": 0.0,
+    "intencidade_Preto": 1.0,
+    "opacidade": 1.0,
+    "meu_ip": "26.184.244.36",
+    "MAX_UDP_PACKET": 1400
 }
