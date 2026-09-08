@@ -1,3 +1,2 @@
-[uWC::Log][2026-09-07 20:20:19] Start
-[uWC::Err][2026-09-07 20:25:10] GetStoreAppProcessId() => EnumChildWindows() failed with error code: 0
-[uWC::Log][2026-09-07 20:39:46] Stop
+[uWC::Log][2026-09-07 21:27:06] Start
+[uWC::Log][2026-09-07 21:33:25] Stop

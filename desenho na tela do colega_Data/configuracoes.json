@@ -5,27 +5,27 @@
     "idioma": "PT-BR",
     "resloução_Atual": {
         "x": 1920,
-        "y": 1111
+        "y": 1200
     },
     "Avisos": true,
-    "brush_Size": 200.0,
+    "brush_Size": 10.225275039672852,
     "brush_Color": {
-        "r": 1.0,
+        "r": 0.0,
         "g": 0.0,
-        "b": 0.9203715324401856,
-        "a": 0.29186296463012698
+        "b": 0.0,
+        "a": 1.0
     },
     "cor_base": {
         "r": 1.0,
         "g": 0.0,
-        "b": 0.9203715324401856,
+        "b": 0.0,
         "a": 1.0
     },
     "D_width": 640,
     "D_height": 480,
-    "intencidade_Branco": 0.0,
-    "intencidade_Preto": 1.0,
-    "opacidade": 0.29186296463012698,
+    "intencidade_Branco": 1.0,
+    "intencidade_Preto": 0.0,
+    "opacidade": 1.0,
     "meu_ip": "26.184.244.36",
     "MAX_UDP_PACKET": 2700
 }
