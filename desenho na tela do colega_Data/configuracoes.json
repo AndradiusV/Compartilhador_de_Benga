@@ -4,28 +4,28 @@
     "qualidadeGrafica": 1,
     "idioma": "PT-BR",
     "resloução_Atual": {
-        "x": 1175,
-        "y": 861
+        "x": 1920,
+        "y": 1111
     },
     "Avisos": true,
-    "brush_Size": 5.193023204803467,
+    "brush_Size": 200.0,
     "brush_Color": {
-        "r": 0.0,
+        "r": 1.0,
         "g": 0.0,
-        "b": 0.0,
-        "a": 1.0
+        "b": 0.9203715324401856,
+        "a": 0.29186296463012698
     },
     "cor_base": {
-        "r": 0.0,
-        "g": 1.0,
-        "b": 0.21729707717895509,
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.9203715324401856,
         "a": 1.0
     },
     "D_width": 640,
     "D_height": 480,
     "intencidade_Branco": 0.0,
-    "intencidade_Preto": 0.0,
-    "opacidade": 1.0,
+    "intencidade_Preto": 1.0,
+    "opacidade": 0.29186296463012698,
     "meu_ip": "26.184.244.36",
-    "MAX_UDP_PACKET": 1400
+    "MAX_UDP_PACKET": 2700
 }
