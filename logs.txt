@@ -1,4 +1,0 @@
-
-comecei a capturar
-C:/Users/enrib/OneDrive/Documentos/GitHub/Compartilhador de Benga/Compartilhador_de_Benga/desenho na tela do colega_Data\AudioCapture\net9.0\AudioCatcher.exe
-AudioCatcher.exe iniciado. Conectando ao Pipe...
