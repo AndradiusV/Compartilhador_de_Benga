@@ -4,8 +4,8 @@
     "qualidadeGrafica": 1,
     "idioma": "PT-BR",
     "resloução_Atual": {
-        "x": 1344,
-        "y": 743
+        "x": 1112,
+        "y": 797
     },
     "Avisos": true,
     "brush_Size": 10.770604133605957,
@@ -26,6 +26,7 @@
     "intencidade_Branco": 0.007489502429962158,
     "intencidade_Preto": 0.8443034887313843,
     "opacidade": 1.0,
+    "prog_Audi_Excluido": "",
     "meu_ip": "26.184.244.36",
     "MAX_UDP_PACKET": 2700
 }
