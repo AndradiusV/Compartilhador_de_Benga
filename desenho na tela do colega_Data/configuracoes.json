@@ -4,12 +4,12 @@
     "qualidadeGrafica": 1,
     "idioma": "PT-BR",
     "resloução_Atual": {
-        "x": 1042,
-        "y": 706
+        "x": 1920,
+        "y": 1200
     },
     "Avisos": true,
     "permite_Desenho": true,
-    "brush_Size": 16.17856788635254,
+    "brush_Size": 10.770604133605957,
     "brush_Color": {
         "r": 0.0,
         "g": 0.08819985389709473,
@@ -28,7 +28,7 @@
     "intencidade_Preto": 1.0,
     "opacidade": 1.0,
     "prog_Audi_Excluido": "Discord",
-    "meu_ip": "26.184.244.36",
+    "meu_ip": "26.101.104.6",
     "MAX_UDP_PACKET": 1500,
     "FPS_Target": 30,
     "H263_Type": 0
