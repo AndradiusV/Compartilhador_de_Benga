@@ -4,16 +4,16 @@
     "qualidadeGrafica": 1,
     "idioma": "PT-BR",
     "resloução_Atual": {
-        "x": 1028,
-        "y": 708
+        "x": 1042,
+        "y": 706
     },
     "Avisos": true,
     "permite_Desenho": true,
-    "brush_Size": 8.543952941894532,
+    "brush_Size": 16.17856788635254,
     "brush_Color": {
         "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
+        "g": 0.08819985389709473,
+        "b": 1.0,
         "a": 1.0
     },
     "cor_base": {
@@ -24,8 +24,8 @@
     },
     "D_width": 640,
     "D_height": 480,
-    "intencidade_Branco": 1.0,
-    "intencidade_Preto": 0.0,
+    "intencidade_Branco": 0.0,
+    "intencidade_Preto": 1.0,
     "opacidade": 1.0,
     "prog_Audi_Excluido": "Discord",
     "meu_ip": "26.184.244.36",

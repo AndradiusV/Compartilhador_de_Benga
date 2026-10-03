@@ -1,0 +1,67 @@
+
+Welcome to the server!
+Recebi uma mensagem WebRTC
+{"type":"offer","sdp":"v=0\r\no=- 2549041806843405838 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:dRQq\r\na=ice-pwd:yeppDzlQeecs6WXRZJYNomdV\r\na=ice-options:trickle\r\na=fingerprint:sha-256 20:2D:F7:FB:68:B3:22:89:17:9C:22:9A:CF:7A:66:6A:69:DD:A3:91:4E:27:CB:22:5D:DF:66:B6:4D:ED:A2:69\r\na=setup:actpass\r\na=mid:0\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n","candidate":"","sdpMid":""}
+Foi uma offer
+Recebi uma mensagem WebRTC
+{"type":"ice","sdp":"","candidate":"candidate:4002522666 1 udp 2122129151 26.184.244.36 63900 typ host generation 0 ufrag dRQq network-id 1","sdpMid":"0"}
+Foi um ice
+Recebi uma mensagem WebRTC
+{"type":"ice","sdp":"","candidate":"candidate:3085397634 1 udp 2121670399 192.168.1.4 63901 typ host generation 0 ufrag dRQq network-id 3 network-cost 10","sdpMid":"0"}
+Foi um ice
+Recebi uma mensagem WebRTC
+{"type":"ice","sdp":"","candidate":"candidate:1105223654 1 udp 2122199807 fdfd::1ab8:f424 63902 typ host generation 0 ufrag dRQq network-id 2","sdpMid":"0"}
+Foi um ice
+Recebi uma mensagem WebRTC
+{"type":"ice","sdp":"","candidate":"candidate:3673879353 1 udp 2122066175 2804:2bf4:a006:7000:8c40:8fd2:fe9d:1f48 63903 typ host generation 0 ufrag dRQq network-id 4 network-cost 10","sdpMid":"0"}
+Foi um ice
+Recebi uma mensagem WebRTC
+{"type":"ice","sdp":"","candidate":"candidate:1851941977 1 udp 2122255103 2001::14c9:cd04:109f:9692:5511:ae7d 63904 typ host generation 0 ufrag dRQq network-id 12 network-cost 50","sdpMid":"0"}
+Foi um ice
+Recebi uma mensagem WebRTC
+{"type":"ice","sdp":"","candidate":"candidate:3268884487 1 udp 2122000639 2804:2bf4:a006:7000:8d8e:e0df:d69d:c7ce 63905 typ host generation 0 ufrag dRQq network-id 5 network-cost 10","sdpMid":"0"}
+Foi um ice
+Recebi uma mensagem WebRTC
+{"type":"ice","sdp":"","candidate":"candidate:4141097107 1 udp 2121935103 2804:2bf4:a006:7000:b8b8:7fde:c002:f214 63906 typ host generation 0 ufrag dRQq network-id 6 network-cost 10","sdpMid":"0"}
+Foi um ice
+Iniciei o receber offer
+Adicionei o ICE
+Adicionei o ICE
+Adicionei o ICE
+Adicionei o ICE
+Adicionei o ICE
+Adicionei o ICE
+Adicionei o ICE
+Fiz a resposta
+fiz o local
+Antes de enviar a resposta
+answer
+Enviei mensagem
+Enviei a resposta
+ice status change:Gathering
+Status tá mudando: Connecting
+Canditado achado
+ice
+Enviei mensagem
+Canditado achado
+ice
+Enviei mensagem
+Canditado achado
+ice
+Enviei mensagem
+Canditado achado
+ice
+Enviei mensagem
+Canditado achado
+ice
+Enviei mensagem
+Canditado achado
+ice
+Enviei mensagem
+Canditado achado
+ice
+Enviei mensagem
+ice status change:Complete
+Status tá mudando: Connected
+Conexão com o WEBRTC estabelecida com sucesso!
+vou inciar a transmissão
