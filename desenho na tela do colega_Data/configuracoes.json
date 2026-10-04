@@ -4,23 +4,23 @@
     "qualidadeGrafica": 1,
     "idioma": "PT-BR",
     "resloução_Atual": {
-        "x": 966,
-        "y": 556
+        "x": 1144,
+        "y": 729
     },
     "Avisos": true,
     "permite_Desenho": 3,
-    "desenho_tipo_Preferido": 2,
-    "brush_Size": 39.53463363647461,
+    "desenho_tipo_Preferido": 1,
+    "brush_Size": 2.8530220985412599,
     "brush_Color": {
-        "r": 0.0,
-        "g": 1.0,
-        "b": 0.11176943778991699,
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
         "a": 1.0
     },
     "cor_base": {
-        "r": 0.0,
-        "g": 1.0,
-        "b": 0.11176943778991699,
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
         "a": 1.0
     },
     "D_width": 640,
