@@ -4,22 +4,23 @@
     "qualidadeGrafica": 1,
     "idioma": "PT-BR",
     "resloução_Atual": {
-        "x": 1920,
-        "y": 1200
+        "x": 966,
+        "y": 556
     },
     "Avisos": true,
-    "permite_Desenho": true,
-    "brush_Size": 10.770604133605957,
+    "permite_Desenho": 3,
+    "desenho_tipo_Preferido": 2,
+    "brush_Size": 39.53463363647461,
     "brush_Color": {
         "r": 0.0,
-        "g": 0.08819985389709473,
-        "b": 1.0,
+        "g": 1.0,
+        "b": 0.11176943778991699,
         "a": 1.0
     },
     "cor_base": {
         "r": 0.0,
-        "g": 0.08819985389709473,
-        "b": 1.0,
+        "g": 1.0,
+        "b": 0.11176943778991699,
         "a": 1.0
     },
     "D_width": 640,
@@ -28,8 +29,8 @@
     "intencidade_Preto": 1.0,
     "opacidade": 1.0,
     "prog_Audi_Excluido": "Discord",
-    "meu_ip": "26.101.104.6",
-    "MAX_UDP_PACKET": 1500,
+    "meu_ip": "26.184.244.36",
+    "BitRate": 4000000,
     "FPS_Target": 30,
-    "H263_Type": 0
+    "encoder_Preferido": ""
 }
