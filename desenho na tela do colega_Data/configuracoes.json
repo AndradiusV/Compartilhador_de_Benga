@@ -4,8 +4,8 @@
     "qualidadeGrafica": 1,
     "idioma": "PT-BR",
     "resloução_Atual": {
-        "x": 810,
-        "y": 603
+        "x": 1920,
+        "y": 1200
     },
     "Avisos": true,
     "permite_Desenho": 3,
@@ -30,7 +30,7 @@
     "opacidade": 1.0,
     "prog_Audi_Excluido": "Discord",
     "meu_ip": "26.184.244.36",
-    "BitRate": 4000000,
+    "BitRate": 11000000,
     "FPS_Target": 60,
     "encoder_Preferido": ""
 }
