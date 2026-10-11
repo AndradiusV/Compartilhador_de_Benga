@@ -1,15 +1,15 @@
 {
-    "volume_Geral": 0.0,
+    "volume_Geral": 0.6928921341896057,
     "volume_Ping": 1.0,
     "qualidadeGrafica": 1,
     "idioma": "PT-BR",
     "resloução_Atual": {
-        "x": 1920,
-        "y": 1200
+        "x": 1085,
+        "y": 700
     },
     "Avisos": true,
     "permite_Desenho": 3,
-    "desenho_tipo_Preferido": 1,
+    "desenho_tipo_Preferido": 2,
     "brush_Size": 4.4354400634765629,
     "brush_Color": {
         "r": 0.999424934387207,
