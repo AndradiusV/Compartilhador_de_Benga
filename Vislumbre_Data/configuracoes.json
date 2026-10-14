@@ -1,0 +1,37 @@
+{
+    "volume_Geral": 1.0,
+    "volume_Ping": 0.0,
+    "qualidadeGrafica": 0,
+    "idioma": "PT-BR",
+    "resloução_Atual": {
+        "x": 800,
+        "y": 600
+    },
+    "Avisos": true,
+    "is_Pined": false,
+    "permite_Desenho": 3,
+    "desenho_tipo_Preferido": 0,
+    "brush_Size": 20.0,
+    "brush_Color": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+    },
+    "cor_base": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+    },
+    "D_width": 640,
+    "D_height": 480,
+    "intencidade_Branco": 1.0,
+    "intencidade_Preto": 1.0,
+    "opacidade": 1.0,
+    "prog_Audi_Excluido": "",
+    "meu_ip": "127.0.0.1",
+    "BitRate": 2000000,
+    "FPS_Target": 15,
+    "encoder_Preferido": ""
+}
